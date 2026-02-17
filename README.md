@@ -133,3 +133,7 @@ I love shipping well-thought products that deliver maximum value. Shaped by buil
 <p align="center">
   <em>"Ship fast, deliver value, iterate — the best architecture is the one that works in production."</em>
 </p>
+
+<p align="center">
+  <strong>For business inquiries — AI consulting, training, and product development — reach out at <a href="mailto:contact@innovai.ai">contact@innovai.ai</a></strong>
+</p>
