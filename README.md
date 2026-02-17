@@ -59,11 +59,21 @@ I love shipping well-thought products that deliver maximum value. Shaped by buil
     <td>
       <img src="https://img.shields.io/badge/LangGraph-412991?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI Safety</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Model%20Armor-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Guardrails-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Responsible%20AI-34A853?style=flat-square&logo=google&logoColor=white"/>
     </td>
   </tr>
   <tr>
