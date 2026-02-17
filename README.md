@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohammed Amine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <strong>AI Solutions Architect &bull; Builder &bull; Code Shipper</strong><br/>
+  <strong>AI Solutions Architect &amp; Product Builder</strong><br/>
   <em>10+ years shipping software, AI platforms, and distributed systems adopted by 100M+ users globally.<br/>I ship production-grade code while bringing maximum value to my clients — that's the architect's mindset.</em>
 </p>
 
