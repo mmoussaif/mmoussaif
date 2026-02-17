@@ -29,8 +29,9 @@ I love shipping well-thought products that deliver maximum value. Shaped by buil
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>:1st_place_medal: Hack Nation 2026 — 1st Place, Databricks Challenge</h4>
+      <h4>:1st_place_medal: <a href="https://projects.hack-nation.ai/#/">Hack Nation 2026</a> — 1st Place, Databricks Challenge</h4>
       <p><strong>Ghana Medical Intelligence Agent</strong> — An AI-powered system that maps healthcare deserts across Ghana using LangGraph multi-agent orchestration, Databricks Mosaic AI, and MLflow tracing. Helps health authorities pinpoint underserved regions and allocate resources where they matter most.</p>
+      <p><sub>Hack Nation is organized by MIT Sloan and sponsored by Google, OpenAI, Mozilla, and Databricks.</sub></p>
       <img src="https://img.shields.io/badge/LangGraph-412991?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
@@ -39,7 +40,7 @@ I love shipping well-thought products that deliver maximum value. Shaped by buil
     <td width="50%" valign="top">
       <h4>:construction_worker: MIT Sundai Club — Builder & Product Lead</h4>
       <p>Active builder at <a href="https://www.sundai.club/">Sundai Club</a> (MIT) — building and launching AI prototypes every Sunday with a community of engineers from MIT, Harvard, and beyond. Leading product direction and hands-on development.</p>
-      <img src="https://img.shields.io/badge/MIT-A31F34?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MIT-A31F34?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/AI%20Prototyping-000?style=flat-square"/>
       <img src="https://img.shields.io/badge/Product%20Lead-4A90D9?style=flat-square"/>
     </td>
