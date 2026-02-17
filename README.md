@@ -15,7 +15,7 @@
 
 ### :zap: About Me
 
-I'm an AI Solutions Architect who loves shipping well-thought products that deliver maximum value. Shaped by building at **Amadeus** and **Amazon**, I bring an engineering-first mindset paired with deep business acumen — I don't just build systems, I make sure they move the needle for the people using them.
+I love shipping well-thought products that deliver maximum value. Shaped by building at **Amadeus** and **Amazon**, I bring an engineering-first mindset paired with deep business acumen — I don't just build systems, I make sure they move the needle for the people using them.
 
 - :bulb: **Founder & CTO @ [InnovAI](https://www.innovai.ai)** — AI consulting and product development, scaling teams 0 to 6+ as Fractional CTO
 - :brain: **AI Solutions Architecture** — End-to-end: from multi-agent pipelines and RAG systems to model serving and observability
