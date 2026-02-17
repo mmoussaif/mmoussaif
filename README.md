@@ -20,7 +20,7 @@ I'm an AI Solutions Architect who loves shipping code that delivers maximum valu
 - :building_construction: **Former Amadeus & Amazon** — Enterprise-scale systems, high-throughput architectures, customer obsession
 - :brain: **AI Solutions Architecture** — End-to-end: from multi-agent pipelines and RAG systems to model serving and observability
 - :rocket: **0-to-1 Builder** — I take ideas from napkin sketch to production deployment, fast
-- :mortar_board: **Boston University** — Engineering & business background
+- :mortar_board: **Boston University** & **CentraleSupelec (France)** — Engineering & business background
 - :bulb: **Founder @ [InnovAI](https://www.innovai.ai)** — AI consulting and product development
 
 ---
