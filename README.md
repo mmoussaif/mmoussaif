@@ -105,3 +105,4 @@ I'm an AI Solutions Architect who loves shipping code that delivers maximum valu
 <p align="center">
   <em>"Ship fast, deliver value, iterate — the best architecture is the one that works in production."</em>
 </p>
+
