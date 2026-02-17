@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.innovai.ai"><img src="https://img.shields.io/badge/innovai.ai-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>&nbsp;
-  <a href="https://linkedin.com/in/mmoussaif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohammedaminemoussaif/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:contact@innovai.ai"><img src="https://img.shields.io/badge/contact@innovai.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
