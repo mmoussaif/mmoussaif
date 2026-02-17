@@ -17,7 +17,7 @@
 
 I love shipping well-thought products that deliver maximum value. Shaped by building at **Amadeus** and **Amazon**, I bring an engineering-first mindset paired with deep business acumen — I don't just build systems, I make sure they move the needle for the people using them.
 
-- :bulb: **Founder & CTO @ [InnovAI](https://www.innovai.ai)** — AI consulting and product development. Roles include Fractional CTO, Head of AI, and AI PM
+- :bulb: **Founder & CTO @ [InnovAI](https://www.innovai.ai)** — AI consulting and product development. Roles include Fractional CTO, Head of AI, AI Solutions Architect, and AI PM
 - :brain: **AI Solutions Architecture** — End-to-end: from multi-agent pipelines and RAG systems to model serving and observability
 - :rocket: **0-to-1 Builder** — Reduced time-to-MVP from 4 months to 5 weeks; shipped production-ready AI products for sports teams, healthcare, and enterprise clients
 - :mortar_board: **CentraleSupelec** (Grande Ecole, France) & **Boston University** (MBA, Questrom) — Engineering meets business
